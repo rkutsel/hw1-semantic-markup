@@ -1,5 +1,7 @@
 # hw1-semantic-markup HTML, CSS, and Git: Code Refactor
 
+## [Link to the website](https://rkutsel.github.io/hw1-semantic-markup/)
+
 ## The list of completed tasks: 
 
 * Refactored the layout of **```index.html```** by replacing ` <div>s` with more semantically-compliant **HTML5** tags.
